@@ -2,4 +2,4 @@
 
 ---
 
-Deployed link [here] (https://brev-students-api.herokuapp.com/)
+Deployed link [here](https://brev-students-api.herokuapp.com/)
